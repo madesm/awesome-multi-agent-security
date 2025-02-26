@@ -47,7 +47,7 @@ For more multi-agent papers with a broader focus, see [awesome multi-agent paper
 
 - **Delegated Pandora’s Box** – Studies costly search problems in delegation, defining the “delegation gap” as the efficiency loss when principals delegate search tasks. It identifies conditions under which this gap can be capped by a constant factor. [Link](https://arxiv.org/abs/2202.10382#:~:text=such%20problems%20and%20space%20of,binary)
 - **Delegated Search Approximates Efficient Search** – Presents a theoretical model where a principal delegates a search task to an agent with misaligned incentives. The mechanism guarantees outcomes within a constant factor of the optimal solution and reveals links to prophet inequalities in optimal stopping theory. [Link](https://arxiv.org/abs/1806.06933#:~:text=,mechanisms%20with%20a%20natural%20threshold)
-- **On the Theory of Delegation** – A foundational work that introduces a formal framework for understanding how principals optimally delegate tasks to agents under asymmetric information conditions.
+- **[On the Theory of Delegation](https://www.kellogg.northwestern.edu/research/math/papers/438.pdf)** – A foundational work that introduces a formal framework for understanding how principals optimally delegate tasks to agents under asymmetric information conditions.
 
 ### Multi-Agent Systems and Task Delegation Frameworks
 
@@ -77,16 +77,11 @@ For more multi-agent papers with a broader focus, see [awesome multi-agent paper
 
 - **A Survey of Trust and Reputation Systems for Multi-Agent Environments**  
   *Ramon Sabater and Carles Sierra (2005)*  
-  This seminal survey reviews various trust and reputation mechanisms developed for multi-agent systems, discussing their design, implementation challenges, and applications in dynamic and decentralized settings.  
-  *(Typically available via ACM Digital Library or IEEE Xplore)*
+  This seminal survey reviews various trust and reputation mechanisms developed for multi-agent systems, discussing their design, implementation challenges, and applications in dynamic and decentralized settings.[paper](https://crad.ict.ac.cn/en/article/id/371)
 - **Partial Identities as a Foundation for Trust and Reputation**  
   *Jose M. Such, Agustín Espinosa, Ana García-Fornes, and Carles Sierra (2011)*  
   This paper examines how using partial identities (which balance anonymity and accountability) can underpin robust trust and reputation models in multi-agent systems, providing insights into preserving privacy while enabling reliable interactions.  
-  [DOI Link (if available)](https://doi.org/10.1016/j.engappai.2011.04.002)
-- **Trust and Reputation in Multi-Agent Systems (Book Chapters & Surveys)**  
-  Look for chapters in edited volumes or surveys (e.g., in "Trust in Multi-Agent Systems" collections) that cover computational trust, reputation models, and their role in security and coordination. These works often provide comprehensive frameworks and comparative analyses that can guide both researchers and practitioners.  
-  *(Examples include works by Jøsang et al. and surveys from the early 2000s on trust in electronic commerce, which are highly relevant to multi-agent settings.)*
-
+  [Science Direct](https://www.sciencedirect.com/science/article/abs/pii/S0952197611001084)
 
 ## Contribute
 
