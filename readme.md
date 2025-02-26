@@ -4,6 +4,8 @@ The following is a list of curated security and privacy related papers in multi-
 
 For more multi-agent papers with a broader focus, see [awesome multi-agent papers](https://github.com/kyegomez/awesome-multi-agent-papers)
 
+For a comparative set of slides that go through each of these approaches, see [here](https://docs.google.com/presentation/d/1lT38avj9y1Xy0tU2aZugKAwd-xhjI2rLgKp0t5RdRdw/edit#slide=id.g33a59478659_0_68) and email andor@andor.us for access.
+
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
