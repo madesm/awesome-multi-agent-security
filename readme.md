@@ -1,4 +1,4 @@
-# Awesome Multi-Agent Security And Privacy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+**Awesome Multi-Agent Security And Privacy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)**
 
 The following is a list of curated security and privacy related papers in multi-agent security and privacy.
 
@@ -7,15 +7,14 @@ For more multi-agent papers with a broader focus, see [awesome multi-agent paper
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
-- [Awesome Multi-Agent Security And Privacy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)](#awesome-multi-agent-security-and-privacy-awesomehttpsawesomerebadgesvghttpsawesomere)
-  - [Delegation](#delegation)
-    - [Decentralized Authorization and Security](#decentralized-authorization-and-security)
-    - [Distributed Systems and Event-Driven Architectures](#distributed-systems-and-event-driven-architectures)
-    - [Functional Encryption and Delegation](#functional-encryption-and-delegation)
-    - [Human-Agent Delegation and Cooperation](#human-agent-delegation-and-cooperation)
-    - [Mechanism Design and Efficiency in Delegation](#mechanism-design-and-efficiency-in-delegation)
-    - [Multi-Agent Systems and Task Delegation Frameworks](#multi-agent-systems-and-task-delegation-frameworks)
-  - [Contribute](#contribute)
+- [Delegation](#delegation)
+  - [Decentralized Authorization and Security](#decentralized-authorization-and-security)
+  - [Distributed Systems and Event-Driven Architectures](#distributed-systems-and-event-driven-architectures)
+  - [Functional Encryption and Delegation](#functional-encryption-and-delegation)
+  - [Human-Agent Delegation and Cooperation](#human-agent-delegation-and-cooperation)
+  - [Mechanism Design and Efficiency in Delegation](#mechanism-design-and-efficiency-in-delegation)
+  - [Multi-Agent Systems and Task Delegation Frameworks](#multi-agent-systems-and-task-delegation-frameworks)
+- [Contribute](#contribute)
 
 <!-- markdown-toc end -->
 
