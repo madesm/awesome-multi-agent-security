@@ -14,6 +14,8 @@ For more multi-agent papers with a broader focus, see [awesome multi-agent paper
   - [Human-Agent Delegation and Cooperation](#human-agent-delegation-and-cooperation)
   - [Mechanism Design and Efficiency in Delegation](#mechanism-design-and-efficiency-in-delegation)
   - [Multi-Agent Systems and Task Delegation Frameworks](#multi-agent-systems-and-task-delegation-frameworks)
+- [Secure and Privacy Preserving Agent Communication ](#secure-and-privacy-preserving-agent-communication)
+- [Trust, Reputation, and Norm Based Security](#trust-reputation-and-norm-based-security)
 - [Contribute](#contribute)
 
 <!-- markdown-toc end -->
