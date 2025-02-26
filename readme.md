@@ -54,6 +54,38 @@ For more multi-agent papers with a broader focus, see [awesome multi-agent paper
 - **Normative Multi-Agent Task Delegation Framework** – Describes a practical framework using autonomous agents and normative rules to handle task overload in organizations, validated through simulation to show improved on-time task completion. [Link](https://www.researchgate.net/publication/289421284_A_normative_multi-agent_framework_for_dynamic_task_assignment_and_delegation#:~:text=The%20problem%20of%20task%20overload,We%20simulate%20the)
 - **Too Many Cooks: Coordinating Multi-Agent Collaboration Through Inverse Planning** – Introduces Bayesian Delegation, a decentralized learning mechanism that uses inverse planning for agents to infer others’ intentions, thereby facilitating flexible coordination in collaborative tasks. [PDF](https://www.cognitivesciencesociety.org/cogsci20/papers/0157/0157.pdf)
 
+## Secure and Privacy Preserving Agent Communication 
+
+- **A Survey of Privacy in Multi-agent Systems**  
+  *Jose M. Such, Agustín Espinosa, and Ana García-Fornes (2013)*  
+  This survey provides an overview of privacy issues in multi-agent systems—including challenges in agent communication—and discusses techniques for protecting sensitive data during inter-agent exchanges.  
+  [PDF on ResearchGate](https://www.researchgate.net/publication/266289788_A_Survey_of_Privacy_in_Multi-agent_Systems)
+- **Trusted AI in Multi-agent Systems: An Overview of Privacy and Security for Distributed Learning**  
+  *Chuan Ma, Jun Li, Kang Wei, et al. (2022)*  
+  Although focused on distributed learning, this paper examines security and privacy risks at various information exchange levels (from raw data to learned models). Many of these insights are applicable to designing secure communication protocols among agents.  
+  [ArXiv](https://arxiv.org/abs/2202.09027)
+- **A Privacy-Preserving and Trustable Multi-agent Learning Framework**  
+  *Anudit Nagar, Cuong Tran, Ferdinando Fioretto (2021)*  
+  This work presents a decentralized framework that combines differential privacy with blockchain smart contracts (via Ethereum) to secure communication and data sharing among agents in distributed learning setups. Its techniques can be adapted for secure, privacy-preserving agent communication in broader multi-agent contexts.  
+  [ArXiv](https://arxiv.org/abs/2106.01242)
+
+*Additional Note:* For further background on secure agent communication, you may also consult the FIPA standards on Agent Communication Languages (ACL) and subsequent extensions that address security and privacy—these standards provide foundational guidelines for implementing secure inter-agent protocols.
+
+## Trust, Reputation, and Norm Based Security
+
+- **A Survey of Trust and Reputation Systems for Multi-Agent Environments**  
+  *Ramon Sabater and Carles Sierra (2005)*  
+  This seminal survey reviews various trust and reputation mechanisms developed for multi-agent systems, discussing their design, implementation challenges, and applications in dynamic and decentralized settings.  
+  *(Typically available via ACM Digital Library or IEEE Xplore)*
+- **Partial Identities as a Foundation for Trust and Reputation**  
+  *Jose M. Such, Agustín Espinosa, Ana García-Fornes, and Carles Sierra (2011)*  
+  This paper examines how using partial identities (which balance anonymity and accountability) can underpin robust trust and reputation models in multi-agent systems, providing insights into preserving privacy while enabling reliable interactions.  
+  [DOI Link (if available)](https://doi.org/10.1016/j.engappai.2011.04.002)
+- **Trust and Reputation in Multi-Agent Systems (Book Chapters & Surveys)**  
+  Look for chapters in edited volumes or surveys (e.g., in "Trust in Multi-Agent Systems" collections) that cover computational trust, reputation models, and their role in security and coordination. These works often provide comprehensive frameworks and comparative analyses that can guide both researchers and practitioners.  
+  *(Examples include works by Jøsang et al. and surveys from the early 2000s on trust in electronic commerce, which are highly relevant to multi-agent settings.)*
+
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
